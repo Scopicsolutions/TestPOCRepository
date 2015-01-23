@@ -15,7 +15,7 @@ namespace CSharpMySqlSample
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmMySqlSample());
-            int i = 4;
+            int i = 3;
 
         }
     }
